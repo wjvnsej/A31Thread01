@@ -1,0 +1,2 @@
+rootProject.name='A31Thread01'
+include ':app'
